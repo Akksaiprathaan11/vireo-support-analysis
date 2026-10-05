@@ -1,3 +1,5 @@
+**Deployed Link: **https://vireo-support-analysis-lzcw7urfvtxjxihhjkwyza.streamlit.app/**
+**
 # Vireo Audio — Support Operations Analytics
 
 A data-driven support operations analysis and decision dashboard built for Vireo Audio. The project analyzes customer support tickets to identify performance issues, SLA exposure, customer satisfaction trends, agent-level signals, refund/replacement patterns, and policy compliance opportunities.
